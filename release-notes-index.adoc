@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: release-notes-index.html 
+keywords: release notes 
+summary: Consulta el conjunto completo de notas de la versión sobre las funciones de implementación local de NetApp Console y los servicios de datos de NetApp. 
+---
+= Índice de notas de la versión
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Consulta el conjunto completo de notas de la versión para las funciones de implementación local de NetApp Console y los servicios de datos de NetApp.
+
+
+
+[[netapp-console-local-deployment]]
+== NetApp Console implementación local
+
+* https://docs.netapp.com/us-en/console-local/whats-new.html["NetApp Console implementación local"^]
+
+
+
+
+[[data-services]]
+== Servicios de datos
+
+* https://docs.netapp.com/us-en/data-services-backup-recovery/whats-new.html["Backup and Recovery"^]
+

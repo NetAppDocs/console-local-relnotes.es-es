@@ -49,8 +49,6 @@
   <block id="860b17c21dae4758109cd6109bb92be4" category="list-text">*Mejoras en la restauración de archivos y carpetas en una máquina virtual invitada*: Ahora puedes restaurar archivos y carpetas de una instantánea en el almacenamiento primario o secundario a una máquina virtual de Windows invitada. Esta función ahora es compatible con VMs CIFS y SAN.</block>
   <block id="17eed7efdf891efe01a3f9078fc5227d" category="inline-link">Crear y gestionar grupos de protección para cargas de trabajo de Hyper-V</block>
   <block id="11cb5552207ff0aa19a1682353b76f93" category="list-text">*Los grupos de protección ahora utilizan la programación basada en la zona horaria del host*: Los grupos de protección ahora utilizan la zona horaria del host de Hyper-V. Los grupos de protección creados antes de que se introdujera la programación basada en la zona horaria del host siguen utilizando la hora configurada anteriormente (normalmente UTC). Para actualizar estos grupos de protección y que utilicen la zona horaria del host de Hyper-V, tienes que volver a crear las programaciones. Consulta<block ref="d7b709a60ba856948f2de1f387e47906" category="inline-link-rx"></block> para más información.</block>
-  <block id="57a29df96f4bdf53f80c56b739785313" category="inline-link">Descripción general de la protección de cargas de trabajo de Hyper-V</block>
-  <block id="f7bc6e5577bf047a5f192d548391185c" category="paragraph">Para más detalles sobre la protección de cargas de trabajo Hyper-V, consulta<block ref="8b99e6e4e6dfd30b0b16292fe5edfbd4" category="inline-link-rx"></block>.</block>
   <block id="558e5aec99d772eb277c493188d3c607" category="section-title">Mejoras en las cargas de trabajo de VMware</block>
   <block id="c7ac12b44e81f24dcab5d6e8675df0a1" category="paragraph">En esta versión, VMware workloads introduce la siguiente mejora:</block>
   <block id="fa3a5087c48da1a523ef45fa2253ea19" category="inline-link">Crear y gestionar grupos de protección para cargas de trabajo de VMware</block>
@@ -72,7 +70,6 @@
   <block id="2402a0b8d9aa0c3e1beaccf0071277cc" category="doc">Presentación de la implementación local de NetApp Console</block>
   <block id="258ea65dfbe28db96b93f873d22fbf91" category="inline-link">Aprende a implementar localmente la NetApp Console</block>
   <block id="6ffc226d668d783acc3c710ae22bd61d" category="section-title">10 de agosto de 2026</block>
-  <block id="31fa668bda8905b4ffe8beddc838ff33" category="paragraph">Directiva sin resolver en &lt;stdin&gt; - include::_include/console-local.adoc[] :leveloffset: +1</block>
   <block id="de2e4685966d24481dfab35c95ad44dc" category="section-title">13 de julio de 2026</block>
   <block id="15957f5a10d7c37b0a0a1daa1c46013a" category="section-title">15 de junio de 2026</block>
   <block id="3e323562bd488e4cbd90a025b9424181" category="section-title">8 de junio de 2026</block>
@@ -87,4 +84,6 @@
   <block id="a33b2a8cf6a943c4ae96728143fee277" category="list-text">*Dar prioridad a las tareas de restauración frente a las de copia de seguridad*: Ahora puedes dar prioridad a las tareas de restauración frente a las de copia de seguridad al restaurar máquinas virtuales o archivos.</block>
   <block id="3c8fad259371a43b707a7a3c64b147f6" category="list-text">*Detectar sistemas y volúmenes ONTAP sin activar Backup and Recovery*: Ahora puedes detectar sistemas y volúmenes sin activar Backup and Recovery.</block>
   <block id="d84803ce394c9284844fcf1a08967ee4" category="paragraph"><block ref="a11bdddbf642d1f60f3b9997ef8c00d9" category="inline-link-rx"></block>.</block>
+  <block id="34f4f1cc663f1412cfa7b75fadb675a3" category="inline-link">Flujo de trabajo de protección de Hyper-V con NetApp Backup and Recovery</block>
+  <block id="dd6b96618d7cbd8e19555b4b7f193bc9" category="paragraph">Para más detalles sobre la protección de cargas de trabajo Hyper-V, consulta<block ref="5c7098f7c6a9321b2b214c22a678e5ae" category="inline-link-rx"></block>.</block>
 </blocks>
